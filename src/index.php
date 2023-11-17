@@ -8,6 +8,7 @@
 <body>
 <h1>Avaliação PW2</h1>
     <?php
+       //Incluir tudo que vier do "main.php" somente uma vez.
        include_once "main.php" 
     ?>
 </body>
