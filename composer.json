@@ -1,0 +1,10 @@
+{
+    "name": "adven/16-11-2023",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
